@@ -1,3 +1,3 @@
-# package-template
+# package-template-ts
 
-A javascript package template
+A typescript package template
